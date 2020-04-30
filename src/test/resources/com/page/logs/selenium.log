@@ -1,0 +1,21 @@
+14:41:11,405 DEBUG devpinoyLogger:69 - Config file loaded!!!
+14:41:11,412 DEBUG devpinoyLogger:82 - OR file loaded!!!
+14:41:37,727 DEBUG devpinoyLogger:118 - Chrome Launched
+14:41:45,418 DEBUG devpinoyLogger:137 - Navigated to : https://www.zoho.com/
+14:42:04,718 DEBUG devpinoyLogger:172 - Clicking The Element:Login_css
+14:42:06,987 DEBUG devpinoyLogger:196 - Typing in Element:email_cssEntered value as :t.ahamedmtp@gmail.com
+14:42:07,301 DEBUG devpinoyLogger:172 - Clicking The Element:nextbtn1_xpath
+14:42:07,894 DEBUG devpinoyLogger:196 - Typing in Element:passwd_cssEntered value as :whiterhino@88
+14:42:08,038 DEBUG devpinoyLogger:172 - Clicking The Element:nextbtn2_xpath
+14:42:08,486 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:42:08,490 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:42:08,495 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:42:08,520 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:42:08,521 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ahamed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:43:05,135 DEBUG devpinoyLogger:172 - Clicking The Element:createAccount_css
+14:43:10,661 DEBUG devpinoyLogger:196 - Typing in Element:Create_cssEntered value as :Thoufik
+14:43:10,669 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:43:10,670 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:43:10,671 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:43:10,672 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:43:10,672 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ahamed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

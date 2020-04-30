@@ -1,0 +1,11 @@
+29/04/2020 14:41:11 devpinoyLogger Config file loaded!!!
+29/04/2020 14:41:11 devpinoyLogger OR file loaded!!!
+29/04/2020 14:41:37 devpinoyLogger Chrome Launched
+29/04/2020 14:41:45 devpinoyLogger Navigated to : https://www.zoho.com/
+29/04/2020 14:42:04 devpinoyLogger Clicking The Element:Login_css
+29/04/2020 14:42:06 devpinoyLogger Typing in Element:email_cssEntered value as :t.ahamedmtp@gmail.com
+29/04/2020 14:42:07 devpinoyLogger Clicking The Element:nextbtn1_xpath
+29/04/2020 14:42:07 devpinoyLogger Typing in Element:passwd_cssEntered value as :whiterhino@88
+29/04/2020 14:42:08 devpinoyLogger Clicking The Element:nextbtn2_xpath
+29/04/2020 14:43:05 devpinoyLogger Clicking The Element:createAccount_css
+29/04/2020 14:43:10 devpinoyLogger Typing in Element:Create_cssEntered value as :Thoufik
