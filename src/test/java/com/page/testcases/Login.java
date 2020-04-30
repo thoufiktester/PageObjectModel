@@ -12,7 +12,7 @@ import com.page.utilities.Utilities;
 
 public class Login extends BaseTest  {
 			
-// egit changes
+/// egit changes
 	@Test(dataProviderClass=Utilities.class,dataProvider="getdata")
 	public void dologin(Hashtable<String ,String> data)
 	{
