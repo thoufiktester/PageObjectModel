@@ -10,7 +10,7 @@ import com.page.pages.ZooAppPage;
 import com.page.utilities.Utilities;
 
 
-public class Login  {
+public class Login extends BaseTest  {
 			
 	
 	@Test(dataProviderClass=Utilities.class,dataProvider="getdata")
